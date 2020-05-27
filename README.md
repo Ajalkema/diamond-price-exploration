@@ -1,10 +1,10 @@
-### Diamond price prediction
+# Diamond price prediction
 
-# Introduction
+### Introduction
 
 In this project I explore a data set from Kaggle© containing information about diamonds. 
 
-# Install
+### Install
 
 This project requires Python 3.x and the following Python libraries installed:
 
