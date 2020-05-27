@@ -14,5 +14,6 @@ This project requires Python 3.x and the following Python libraries installed:
 * Scikit-learn
 * PPScore
 * Seaborn
+* Pydot
 
 You also need to have software installed to run an iPython Notebook
