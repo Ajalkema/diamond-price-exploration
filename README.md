@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In this project I explore a data set from Kaggle© containing information about diamonds. 
+In this project I explore a data set from Kaggle containing information about diamonds. 
 
 ### Install
 
