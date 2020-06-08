@@ -18,6 +18,11 @@ This project requires Python 3.x and the following Python libraries installed:
 
 You also need to have software installed to run an iPython Notebook
 
+### File Descriptions
+
+Diamond price exploration.ipynb: Contains the notebook where i analyse the data (diamonds.csv)
+Diamonds.csv: The data file from Kaggle containing 53k+ diamonds and their features
+
 ### Blog post
 
 I wrote a blog about this project which can be found here:
